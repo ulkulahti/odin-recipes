@@ -1,1 +1,2 @@
-# odin-recipes
+Project: Website with recipes
+The goal with this project is to demonstrate current knowledge of creating websites with HTML as part of The Odin Project's Foundation course. Skills like linking to other pages and getting images to show up on pages. This was also an opportunity for trying to write good commit messages.
